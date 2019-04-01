@@ -18,12 +18,6 @@
     "netlify-cms"
   ],
   "license": "MIT",
-  "files": [
-    "gatsby-*.js",
-    "cms*.js",
-    "index.js",
-    "README.md"
-  ],
   "dependencies": {
     "@pieh/friendly-errors-webpack-plugin": "1.7.0-chalk-2",
     "html-webpack-exclude-assets-plugin": "^0.0.7",
