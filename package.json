@@ -1,5 +1,5 @@
 {
-  "name": "@talves/gatsby-plugin-netlify-cms",
+  "name": "gatsby-plugin-netlify-cms",
   "version": "0.0.0-development",
   "description": "A plugin to use NetlifyCMS with React as peer dep",
   "author": "Tony Alves <tony@3alves.com>",
